@@ -1,1 +1,1 @@
-# git-github.com-cortizqgithub-csoftz-polarbookstore-config-service
+# csoftz-polarbookstore-config-service
