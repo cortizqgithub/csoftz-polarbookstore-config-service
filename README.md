@@ -1,1 +1,0 @@
-# csoftz-polarbookstore-config-service

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="LSP-Snapshots" />
+      <option name="name" value="LSP-Snapshots" />
+      <option name="url" value="https://nexus3.disney.com/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="WDPRT-Release" />
+      <option name="name" value="WDPRT-Release" />
+      <option name="url" value="https://nexus3.disney.com/repository/WDPRT-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central" />
+      <option name="name" value="maven-central" />
+      <option name="url" value="https://nexus3.disney.com/repository/maven-central" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="WDPR-Releases" />
+      <option name="name" value="WDPR-Releases" />
+      <option name="url" value="https://nexus3.disney.com/repository/WDPR-Releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="WDPRT-Master" />
+      <option name="name" value="WDPRT-Master" />
+      <option name="url" value="https://nexus3.disney.com/repository/WDPRT-master/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="LSP-Releases" />
+      <option name="name" value="LSP-Releases" />
+      <option name="url" value="https://nexus3.disney.com/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss" />
+      <option name="name" value="jboss" />
+      <option name="url" value="http://repository.jboss.org/nexus/content/groups/public-jboss" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="WDPRT-Latest" />
+      <option name="name" value="WDPRT-Latest" />
+      <option name="url" value="https://nexus3.disney.com/repository/WDPRT-latest/" />
+    </remote-repository>
+  </component>
+</project>
